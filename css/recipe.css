@@ -1,0 +1,34 @@
+body{
+    color: #404040;
+    font-family: Georgia, Garamond,Serif;
+    font-size: 11pt;
+
+}
+.headings{
+    color: #A4A400 ;
+    background-color: #F0F0F0 ;
+    font-family: "Lucida Sans Unicode", Helvetica, Arial,"sans-serif";
+    text-decoration: underline;
+
+}
+h1{
+    font:  22pt bold;
+    text-align: center;
+}
+h2{
+    font-size: 18pt;
+    text-align: left;
+}
+a{
+    color: #A4A400;
+}
+.bold_text{
+font-weight: bold;
+}
+div.comments{
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+.underlined{
+    text-decoration: underline;
+}
